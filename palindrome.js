@@ -1,4 +1,4 @@
-let nam = "mama";
+let nam = "mom";
 
 revName = nam.split("").reverse().join("");
 
